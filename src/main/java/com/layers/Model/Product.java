@@ -16,6 +16,7 @@ import lombok.Setter;
 
 
 /*Table Annotation removed*/
+/*Extra code*/
 @Entity
 @Getter
 @Setter
